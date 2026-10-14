@@ -1,0 +1,16 @@
+# Private athlete information
+*.xlsx
+*.xls
+*.csv
+
+# Backup Python scripts
+analysis_backup.py
+analysis_backup2.py
+
+# VS Code settings
+.vscode/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
